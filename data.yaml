@@ -1,0 +1,9 @@
+path: .
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+names:
+  0: intact
+  1: damaged
