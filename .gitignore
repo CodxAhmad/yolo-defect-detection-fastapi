@@ -21,3 +21,6 @@ images/
 labels/
 yolov8*.pt
 runs/
+
+node_modules/
+dist/
